@@ -1,25 +1,3 @@
-# 🍥Fuwari
-
-基于 [Astro](https://astro.build) 开发的静态博客模板。
-
-[**🖥️在线预览（Vercel）**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**📦旧 Hexo 版本**](https://github.com/saicaca/hexo-theme-vivia)
-
-> README 版本：`2024-04-07`
-
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
-
-## ✨ 功能特性
-
-- [x] 基于 Astro 和 Tailwind CSS 开发
-- [x] 流畅的动画和页面过渡
-- [x] 亮色 / 暗色模式
-- [x] 自定义主题色和横幅图片
-- [x] 响应式设计
-- [ ] 评论
-- [x] 搜索
-- [ ] 文内目录
-
 ## 🚀 使用方法
 
 1. 使用此模板[生成新仓库](https://github.com/saicaca/fuwari/generate)或 Fork 此仓库
